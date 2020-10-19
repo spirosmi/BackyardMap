@@ -10444,8 +10444,15 @@ header.masthead .masthead-heading {
   margin-bottom: 0;
 }
 .partner img {
-  width: 30rem;
-  height: 20rem;
+  width: 20rem;
+}
+.partner {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.partner h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
 }
 section#contact {
   background-color: #212529;
