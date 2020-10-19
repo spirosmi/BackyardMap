@@ -10443,7 +10443,10 @@ header.masthead .masthead-heading {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
-
+.partner img {
+  width: 30rem;
+  height: 20rem;
+}
 section#contact {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
