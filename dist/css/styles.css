@@ -10136,11 +10136,10 @@ img::-moz-selection {
   }
 }
 header.masthead {
-  padding-top: 10rem;
-  padding-bottom: 1rem;
+  padding-top: 15rem;
+  padding-bottom: 2rem;
   text-align: center;
   color: #fff;
-  background: rgba(254, 209, 54, 0.04);
   background-image: url("../assets/img/Map.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
