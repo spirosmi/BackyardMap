@@ -10139,7 +10139,8 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: 1rem;
   text-align: center;
-  color: #fed136;
+  color: #fff;
+  background: rgba(254, 209, 54, 0.04);
   background-image: url("../assets/img/Map.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
