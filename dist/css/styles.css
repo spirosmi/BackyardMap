@@ -604,7 +604,7 @@ pre code {
 .vspace {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 0.5rem;
+  margin-top: 0.6rem;
 }
 .no-gutters {
   margin-right: 0;
