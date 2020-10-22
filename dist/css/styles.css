@@ -601,7 +601,7 @@ pre code {
   margin-right: -0.75rem;
   margin-left: -0.75rem;
 }
-.v-space {
+.vspace {
   display: flex;
   flex-wrap: wrap;
   margin-top: 0.5rem;
